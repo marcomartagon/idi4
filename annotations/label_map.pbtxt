@@ -1,0 +1,8 @@
+item {
+    id: 1
+    name: 'disease'
+}
+item {
+    id: 2
+    name: 'healthy'
+}
